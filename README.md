@@ -2,6 +2,8 @@
 
 Impulsionamos Negócios com Dados Inteligentes, na JLG Data & Analytics, transformamos dados em insights estratégicos para acelerar o crescimento do seu negócio. Com expertise em Data Science, Analytics e IA.
 
+![img](/company.jpg)
+
 ---
 
 ## 📊 Análise Exploratória de Dados (EDA) para Empresa de Marketing
