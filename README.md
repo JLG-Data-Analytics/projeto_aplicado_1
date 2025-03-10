@@ -118,8 +118,8 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais deta
 Se tiver dúvidas ou sugestões, entre em contato:
 
 📧🐙 GitHub & Email: 
-- douglasm8989@outlook.com
-- lucasiglezias@icloud.com
-- gus.ribeirolima@hotmail.com
+- douglasm8989@outlook.com (Jaelson Matias)
+- lucasiglezias@icloud.com (Lucas Iglezias)
+- gus.ribeirolima@hotmail.com (Gustavo Ribeiro)
 
 
